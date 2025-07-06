@@ -1,4 +1,4 @@
-# finanzas_utiles
+# operaciones_para_negocio
 
 Librería Python con funciones básicas de lógica financiera: interés simple, valor futuro y conversión de monedas.
 
@@ -20,7 +20,7 @@ pip install .
 ## Uso
 
 ```python
-from finanzas_utiles import calcular_interes_simple, valor_futuro, convertir_moneda
+from operaciones_para_negocio import calcular_interes_simple, valor_futuro, convertir_moneda
 ```
 
 ## Funcionalidades

@@ -7,7 +7,7 @@ Librería Python con funciones básicas de lógica financiera: interés simple, 
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/finanzas_utiles.git
+git clone https://github.com/tuusuario/operaciones_para_negocio.git
 cd finanzas_utiles
 ```
 
